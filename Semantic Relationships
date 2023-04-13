@@ -21,20 +21,20 @@ floor is a horizontal surface as wall is a vertical surface
 smoke dectectors trigger the smoke alarm as heat triggers the thermostart.
 flow sensor control is part of the flow system as Exhaust outlet is part of the ventilation system.
 room is a type of space as door is a type of fitting
-HVAC comprises the ventilation system
+HVAC comprises the ventilation system as supply air setpoint is the background ventilators
 room is a type of space in a building as window is an opening on a wall .
-supply air setpoint is the supply fan
+supply air setpoint is the supply fan as HVAC comprises the ventilation system
 supply air setpoint is the background ventilators
 thermostatic control to interrupt the electrical supply at setpoint.
 external walls are constructed with brickwork and also external walls are constructed with blockwork
-external walls are constructed with blockwork
+external walls are constructed with blockwork as rafter is made with wood
 floors are secured by connections to walls as external walls are constructed with brickwork
 roofs are secured by connections to walls as external walls are constructed with blockwork
 Fire damper is part of a duct as ceiling is part of the building
 Appliance ventilation duct delivers combustion air to a gas appliance
 A space enclosed by elements of a building is called cavity as the amount of light falling on a surface is termed illuminance
 ceiling is part of the roof as boiler is part of a domestic hot water system
-Boiler room is a type of fire hazard as solar panel is a type of specified attachment
+Boiler room is a type of fire hazard as solar panel is a type of roof attachment
 Switch gear room is a type of fire hazard as solar panel is a type of specified attachment
 Suspended ceiling increases fire resistance as fire damper resists the spread of fire.
 solar panel is a type of roof attachment as Boiler room is a type of fire hazard
@@ -68,4 +68,33 @@ joists are joined veritically to columns as floor is a horizontal surface.
 Fire doorset is a fire damper as the smoke alarm is a smoke damper
 beam is used to support a load as caulked sealant is used to prevent cracking
 joists are joined veritically to columns as Joists are connected horizontally to beams
-Solar Energy is stored in a battery as as exhaust is emmits waste water
+Solar Energy is stored in a battery as as exhaust is emmits waste gases
+A building inspection leads to an approved renovation
+Foundation is to floor as ceiling is to roof
+Safety is to safety engineering as safety signs in health Safety
+backfilling is replacing removed material as beam is used to support a load
+thermal breaks restrict thermal bridging as caulked sealant is used to prevent cracking
+fire doorset restricts fire as thermal breaks restrict thermal bridging
+underpinning strenghtens foundations as backfilling is replacing removed material
+plasterboard is used to construct walls as backfilling is replacing removed material
+caulked sealant is used to prevent cracking as backfilling is replacing removed material
+ductwork controls air flow as switches as used to control lighting
+daylight control regulates natural lighting as ductwork controls air flow 
+overhangs are used to provide shade as Heat pump is used to capture heat
+beam is used to support a load as overhangs are used to provide shade
+Caulked sealant is used to prevent cracking as overhangs are used to provide shade
+piers is a type of platform as room is a type of space
+columns is a type of wall as Boiler room is a type of fire hazard
+parapet is a type of wall as balcony is a type of wing attachment
+the natural degradation of elements is called corrosion as the amount of light falling on a surface is termed illuminance
+Occupancy is a structure for people as a flat is a premise constructed for residential purposes
+Occupancy is a structure for animals as a flat is a premise constructed for residential purposes
+egress is a free path for exit as piers is a type of platform
+a storey exit is the final exit as egress is a free path for exit
+columns is a type of support as beam is used to support a load
+eaves is a type of overhang as piers is a type of platform
+columns is a type of support as eaves is a type of overhang
+parapet is a type of wall as balcony as eaves is a type of overhang
+eaves is a type of overhang as parapet is a type of wall
+backfilling is replacing removed material as overhangs are used to provide shade
+plasterboard is used to construct walls as columns is a type of wall
